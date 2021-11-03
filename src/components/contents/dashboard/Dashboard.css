@@ -1,0 +1,28 @@
+.report {
+  height: 260px;
+  margin: 10px;
+  box-shadow: rgba(118, 169, 219, 0.2) 0px 8px 24px;
+  border-radius: 15px;
+  padding: 10px;
+}
+.best-product {
+  max-height: 100vh;
+  height: 100%;
+  margin: 10px;
+  border-radius: 15px;
+  padding: 30px;
+  background-color: #256bfe;
+}
+.best-product .best-product-content {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  color: #fff;
+}
+.chart {
+  height: 370px;
+  margin: 10px;
+  box-shadow: rgba(118, 169, 219, 0.2) 0px 8px 24px;
+  border-radius: 15px;
+  padding: 10px;
+}

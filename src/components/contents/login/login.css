@@ -1,0 +1,29 @@
+
+.image {
+    position: absolute;
+    width: 590px;
+    height: 590px;
+    top: 50px;
+    right: 0;
+}
+.image img{
+    width: 100%;
+    height: 100%;
+}
+
+.login {
+    width: 380px;
+    height: 280px;
+    text-align: center;
+    position: absolute;
+    top: 170px;
+    left: 0;
+}
+.logo {
+    width: 88px;
+    height: 88px;
+}
+.logo img {
+    width: 100%;
+    height: 100%;
+}
